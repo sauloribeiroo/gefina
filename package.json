@@ -5,7 +5,11 @@
     "author": "Saulo Ribeiro",
     "type": "module",
     "scripts": {
-        "dev": "node --watch ./server.ts"
+        "dev": "node --watch ./server.ts",
+        "check": "tsx"
+    },
+    "devDependencies": {
+        "@types/node": "^26.6.6",
+        "typescript": "^7.0.2"
     }
-
 }
