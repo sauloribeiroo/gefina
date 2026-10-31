@@ -1,7 +1,7 @@
 {
 	"compilerOptions": {
 		"module": "nodenext",
-		"allowImportingTsExtension": true,
+		"allowImportingTsExtensions": true,
 		"noEmit": true,
 		"types": ["node"]
          }
